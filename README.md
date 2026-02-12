@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @vaibhav91-singh
-- 👀 I’m interested in coading
+- 👀 I’m interested in codeing
 - 🌱 I’m currently learning java
   
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...singhvaibhav849@gmail.com / vs0906449@gmail.com
+- 
+- 
 - ⚡ Fun fact: ...
 
 <!---
