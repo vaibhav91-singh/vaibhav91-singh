@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @vaibhav91-singh
+- 👋 Hi, I’m vaibhav91-singh
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning java
   
 - 📫 How to reach me ...singhvaibhav849@gmail.com / vs0906449@gmail.com
-- 
+- Connect with me on LinkedIn -: www.linkedin.com/in/vaibhav-singh-763351297
 - 
 - ⚡ Fun fact: ...
 
