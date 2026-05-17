@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-singh-763351297" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaibhav Singh" /></a>
 <a href="mailto:singhvaibhav849@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/vaibhav91-singh" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://leetcode.com/vaibhav91-singh](https://leetcode.com/u/vaibhavsingh2310/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ### 🚀 About Me
