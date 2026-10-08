@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaibhav Singh
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2962FF&width=435&lines=B.Tech+CS+(AI+%26+DS);Full+Stack+Developer;Data+Science+Enthusiast;Creative+Poet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2962FF&width=435&lines=B.Tech+CS+(AI+%26+DS);Full+Stack+Developer;Data+Science+Enthusiast;Salesforce+Developer;Salesforce+Administrator;AI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 - 🎓 **Student:** B.Tech in CS (AI & Data Science)
 - 💻 **Focus:** Full-Stack Development & Data Analytics
 - 📢 **Focus:** Salesforce Developer and Administrator
-- 🌱 **Currently Learning:** Advanced Java & System Design
+- 🌱 **Currently Learning:** Advanced Java & System Design & Agentic AI
 
 ---
 
