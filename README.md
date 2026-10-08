@@ -14,8 +14,8 @@
 - 🏫 **College:** ![GNIOT](https://img.shields.io/badge/Greater_Noida_Institute_of_Technology-GNIOT-orange?style=flat-square&logo=google-scholar&logoColor=white)
 - 🎓 **Student:** B.Tech in CS (AI & Data Science)
 - 💻 **Focus:** Full-Stack Development & Data Analytics
+- 📢 **Focus:** Salesforce Developer and Administrator
 - 🌱 **Currently Learning:** Advanced Java & System Design
-- ⚡ **Fun Fact:** I write romantic Hindi poetry when I'm not debugging code!
 
 ---
 
